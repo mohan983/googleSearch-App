@@ -1,0 +1,20 @@
+.suggestion-card-container {
+  background-size: cover;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 3px;
+}
+
+.suggestion {
+  color: #475569;
+  font-size: 18px;
+}
+
+.arrow-img {
+  cursor: pointer;
+  background-color: white;
+  border: 0px;
+  width: 22px;
+  height: 22px;
+}
